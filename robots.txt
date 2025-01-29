@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://clube.theforce.cc/sitemap.xml
